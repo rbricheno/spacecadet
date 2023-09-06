@@ -20,4 +20,6 @@ Dueling Zero version of the BoxZero corner:
 
 https://github.com/zruncho3d/DuelingZero/blob/main/STLs/Top_Corner_Plus15_x2.stl
 
+The jigs are CC4.0 Attribution as the part they are based on is originally licensed by jrdn8056 on Printables, is found here:
 
+https://www.printables.com/model/273259-voron0-drill-jig-for-aluminum-extrusions
